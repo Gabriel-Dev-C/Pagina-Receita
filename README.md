@@ -6,13 +6,17 @@
 <img src="./assets/prototipo.png" alt="Protótipo" border="0">
 </p>
 
-💡 Projeto desenvolvido com foco na responsividade e tematização de um design atrativo para criação de uma página de receitas.
-💻 Tecnologias utilizadas:
-    * HTML5
-    * CSS3
-    * VCS GIT
-    * GITHUB
-    * User Interface (UI)
+<p>💡 Projeto desenvolvido com foco na responsividade e tematização de um design atrativo para criação de uma página de receitas.</p>
+<p>
+   💻 Tecnologias utilizadas:
+    <ul>
+       <li>HTML5</li>
+       <li>CSS3</li>
+       <li>VCS GIT</li>
+       <li>GITHUB</li>
+       <li>User Interface (UI)</li>
+    </ul> 
+</p>
 
 ## 📋 Meta
 
