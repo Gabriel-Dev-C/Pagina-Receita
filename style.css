@@ -4,6 +4,8 @@
 }
 * {
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 body{
     background-image: url('/assets/bg-img.png');
@@ -19,6 +21,16 @@ body{
 img {
     border-radius: 16px;
 }
+main {
+    padding: 24px;
+}
+#about p + p {
+    margin-top: 12px;
+
+}
+section + section {
+    margin-top: 24px;
+}
 h1 {
     line-height: 140%;
     font-size: 40px;
@@ -28,7 +40,12 @@ h2 {
 }
 h1, h2 {
     color: #291B1A;
+    margin-bottom: 4px;
+    line-height: 150%;
 }
 p, ul {
     color: #573A37;
+}
+ul {
+    padding-left: 24px;
 }
