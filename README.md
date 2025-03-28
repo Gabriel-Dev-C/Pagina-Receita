@@ -30,4 +30,4 @@ Gabriel C. Martins – gacmartins@gmail.com
 2. Crie uma _branch_ para sua modificação (`git checkout -b meu-novo-recurso`)
 3. Faça o _commit_ (`git commit -am 'Adicionando um novo recurso...'`)
 4. _Push_ (`git push origin meu-novo-recurso`)
-5. Crie um novo _Pull Request_
+5. Crie um novo _Pull Request_.
